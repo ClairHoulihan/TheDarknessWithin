@@ -1,5 +1,5 @@
-# HorrorGame
-Final Project for Game Dev
+# The Darkness Within
+Project Design Doc found at https://drive.google.com/drive/folders/1GgdkMyqrJAF6LdZKTrCgTcpLxRCvIciT?usp=sharing
 
 # Set-up Unity Editor 
 Before you start pulling or pushing anything for the first time, do the following:
