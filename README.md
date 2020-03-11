@@ -1,6 +1,13 @@
 # The Darkness Within
 Project Design Doc found at https://drive.google.com/drive/folders/1GgdkMyqrJAF6LdZKTrCgTcpLxRCvIciT?usp=sharing
 
+# Installations
+Make sure you have the follwing 
+
+Unity v2019.3.3f1
+git for your terminal or a git GUI such as GitKraken or GitHub for Desktop
+If you ever get an error message about LFS (Large File System) make sure it is installed in your computer. 
+
 # Set-up Unity Editor 
 Before you start pulling or pushing anything for the first time, do the following:
 
